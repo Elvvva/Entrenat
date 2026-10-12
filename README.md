@@ -1,2 +1,2 @@
-# Entrenat
+# Entrena't
 Entrenaments personalitzats
